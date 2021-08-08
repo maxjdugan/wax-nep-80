@@ -1,0 +1,51 @@
+---
+sitemap: false
+---
+/*
+variable declaration
+*/
+
+/* branding */
+$logo: url("{{ '/assets/logo.png' | absolute_url }}");
+
+/* text */
+
+$body-font:       'Palatino', 'sans-serif';
+$heading-font:    'Bookman Old Style', 'monotype';
+
+
+/* Image Size */
+
+$thumbnail-height: 140px;
+$thumbnail-width: 140px;
+
+/* colors */
+
+$text-color:      #100c01;
+$bg-color:        #eae7de;
+$neutral:         #DDE4E9;
+$accent-light:    #A65E2F; /*windsor tan*/
+$accent-dark:     #2F77A7; /*star command blue*/
+
+/* viewport sizes */
+
+$max-width:       800px;
+
+/* margins */
+
+$less-margin:     1.0rem;
+$margin:          1.5rem;
+$more-margin:     2.0rem;
+$super-margin:    3.0rem;
+
+
+$viewer-height:   550px;
+$parallax-height: 350px;
+$footer-height:   200px;
+
+/*
+font & asset import
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
+@import 'wax';

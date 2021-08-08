@@ -1,0 +1,61 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/nep_80.json",
+  "@type": "sc:Collection",
+  "label": "nep_80",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft6"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft8"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft7"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft9"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gordon_andalaft3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gordon_andalaft3"
+    }
+  ]
+}
