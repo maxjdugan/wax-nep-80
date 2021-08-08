@@ -104,14 +104,6 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
-    sub:
-      - label: 'Project Background'
-        link: '/about/'
-      - label: 'Citations'
-        link: '/citations'
-      - label: 'Wax'
-        link: '/credits'
   - label: 'Exhibits'
     sub:
       - label: 'Narrative'
@@ -128,6 +120,14 @@ menu:
         link: '/search/'
       - label: 'Reuse'
         link: '/reuse/'
+  - label: 'About'
+    sub:
+      - label: 'Project Background'
+        link: '/about/'
+      - label: 'Citations'
+        link: '/citations'
+      - label: 'Wax'
+        link: '/credits'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
