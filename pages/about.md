@@ -4,9 +4,9 @@ title: Project Background
 permalink: /about/
 ---
 <p>This digital exhibition narrates the acquisition of NEP-80 by George Byron Gordon from Dimitri Andalaft in the early 1920s and archives their letters and telegrams in the Penn Museum Archives. Gordon was the director of the Penn Museum and worked vigorously to grow the Museum’s collections. Andalaft was a dealer of “Oriental, Persian, and Egyptian Antiques” located in the Khan El Khalili of Cairo, Egypt. Correspondence between Gordon and Andalaft contained in the University of Pennsylvania archives illustrate the asymmetric negotiation between Gordon and Andalaft, wherein the former’s credentials, ease of travel, and tactics resulted in him paying a fractional cost for the manuscript.</p>
-
+<br>
 <p>We hope this project will be useful to scholars studying on the collection of ajzā’ from which NEP-80 was separated, as well as critical examinations of the provenance of university and museum holdings. For more volumes of the Qur’an related to NEP-80, see Andrea Juvin’s [article](https://www.researchgate.net/publication/332492271_A_Mamluk_Quranic_Guz_and_Its_Connection_with_Amir_Abd_al-Qadir_al-Gazairi) and Kelly Tuttle’s [writing about NEP-80](https://pennrare.wordpress.com/2019/10/09/the-final-part-of-a-mamluk-qur%ca%bean-copy/).</p>
-
+<br>
 <p>The utmost thanks to Professor Jamal J. Elias who fostered and encouraged this research. We are also deeply grateful to Alessandro Pezzati of the Penn Museum Archives, who tracked down these materials, gathered scans, reviewed citations, and shared his extensive knowledge of George B. Gordon, as well as Emily Moore and Stephanie Mach of the Penn Museum and Mitch Fraas and Kelly Tuttle of the Penn Library.</p>
-
+br>
 <p>The archival materials included herein are located in the George B. Gordon Director's Office Records, Penn Museum Archives. Other cited materials can be found on the citations page found [here](https://maxjdugan.github.com/nep_80/about/citations/)</p>
