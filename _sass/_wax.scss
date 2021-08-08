@@ -279,17 +279,15 @@ content section
 
   .parallax-image {
     background-color: $neutral;
-    width: 80%;
+    width: 100%;
     height: $parallax-height;
     max-height: 55vh;
-    margin-left: 10%;
     background-attachment: fixed;
     background-size: cover;
   }
   .parallax-caption {
     margin: 0 auto;
-    width: 80%;
-    margin-right: 10%;
+    width: 100%;
     background-color: $neutral;
     padding: $less-margin 0;
     a {
