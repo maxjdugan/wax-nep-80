@@ -17,7 +17,7 @@ permalink: /exhibits/c/
 <p>The letters from Andalaft to Gordon demonstrate his English aptitude but also indicate he may have been experiencing financial problems. Throughout the letters, Andalaft employs an obsequiously humble tone and lavish salutation. His writing alternates between a clean cursive handwriting and, in one example, a typewriter-penned letter. By 1923 and 1924, Andalaft intimates that he is in dire straits financially. Whether this is actually the case is unclear—Andalaft may have communicated desperation to obtain the pity of Gordon or accelerate the authentication and payment process. For example, he closes his February 1924 letter by asking Gordon to send a check at “an early date” because he is “in great need of ready cash.” These letters, in combination with the two travelogues above, provide a glimpse into the figure who negotiated with Gordon during the acquisition of NEP-80.</p>
 
 
-## Works Cited
+### Works Cited
 
 Lorimer, Norma and Benton Fletcher. *By the Waters of Egypt*. London: Methuen & Company, 1909.
 
