@@ -19,5 +19,5 @@ permalink: '/citations/'
 <p>Juvin, Carine. “A Mamluk Qurʾānic Ǧuzʾ and Its Connection with Amīr ʿAbd Al-Qādir al-Ǧazāʾirī.” <i>Journal of Islamic Manuscripts</i> 10 (2019): 105–35.</p>
 <p>Lorimer, Norma and Benton Fletcher. <i>By the Waters of Egypt</i>. London: Methuen & Company, 1909.</p>
 <p>Sladen, Douglas. <i>Oriental Cairo: The City of the “Arabian Nights."</i> Philadelphia: J. B Lippincott Company, 1911.</p>
-<p>Tuttle, Kelly. “The Final Part of a Mamlūk Qurʾān Copy.” Penn Libraries Blogs. <i>Special Collections Processing at Penn</i> (blog), October 9, 2019. https://pennrare.wordpress.com/2019/10/09/the-final-part-of-a-mamluk-qur%ca%bean-copy/.</p>
+<p>Tuttle, Kelly. “The Final Part of a Mamlūk Qurʾān Copy.” Penn Libraries Blogs. <i>Special Collections Processing at Penn</i> (blog), October 9, 2019. <a href="https://pennrare.wordpress.com/2019/10/09/the-final-part-of-a-mamluk-qur%ca%bean-copy/">https://pennrare.wordpress.com/2019/10/09/the-final-part-of-a-mamluk-qur%ca%bean-copy/</a>.</p>
 <p>Unknown. Portrait of George Byron Gordon. Penn Museum. Image no. 174898.</p>
