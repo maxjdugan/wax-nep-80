@@ -13,5 +13,5 @@ permalink: /exhibits/b/
 
 ### Works Cited
 
-<p>Harrison, Charles Custis. “Dr. George Byron Gordon.” *The Museum Journal* 18, no. 1 (March, 1927): 5-8.</p>
-<p>King, Eleanor M. and Bryce P. Little. "George Byron Gordon and the Early Development of The University Museum.” In *Raven's Journey: The World of Alaska's Native People*, edited by Susan A. Kaplan and Kristin J. Barsness (Philadelphia: The University Museum, 1986).</p>
+<p>Harrison, Charles Custis. “Dr. George Byron Gordon.” <i>The Museum Journal</i> 18, no. 1 (March, 1927): 5-8.</p>
+<p>King, Eleanor M. and Bryce P. Little. "George Byron Gordon and the Early Development of The University Museum.” In <i>Raven's Journey: The World of Alaska's Native People</i>, edited by Susan A. Kaplan and Kristin J. Barsness (Philadelphia: The University Museum, 1986).</p>
