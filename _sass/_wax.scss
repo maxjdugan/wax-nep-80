@@ -196,15 +196,21 @@ content section
       background-color: $neutral;
       margin-top: $more-margin;
       margin-bottom: $more-margin;
-      display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
       padding: 1em;
-      max-width: 90%;
+      width: 50%;
       img {
-        max-width: 100%;
+        width: 50%;
         max-height: 80vh;
       }
       .image-caption {
         margin: 1em 0 1em 0;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
         font-family: $heading-font;
       }
     }

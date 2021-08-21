@@ -19,6 +19,6 @@ permalink: /exhibits/c/
 
 ### Works Cited
 
-Lorimer, Norma and Benton Fletcher. <i>By the Waters of Egypt</i>. London: Methuen & Company, 1909.
+<p class="hang">Lorimer, Norma and Benton Fletcher. <i>By the Waters of Egypt</i>. London: Methuen & Company, 1909.</p>
 
-Sladen, Douglas. <i>Oriental Cairo: The City of the “Arabian Nights</i>. Philadelphia: J. B Lippincott Company, 1911.
+<p class="hang">Sladen, Douglas. <i>Oriental Cairo: The City of the “Arabian Nights</i>. Philadelphia: J. B Lippincott Company, 1911.<p>
