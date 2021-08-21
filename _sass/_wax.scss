@@ -40,6 +40,20 @@ p {
   text-rendering: optimizeLegibility;
 }
 
+p.hang {
+  text-indent: -20px;
+  margin-left: 40px;
+  color: $text-color;
+  max-width: 100%;
+  margin-bottom: $less-margin;
+  letter-spacing: .02rem;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.75rem;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
 /*
 
 header & nav bar
